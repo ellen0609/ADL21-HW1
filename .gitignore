@@ -1,0 +1,4 @@
+glove.*
+requirements.txt
+*pyc
+/cache
